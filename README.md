@@ -6,7 +6,8 @@
 
 
 - 📈 Proyecto 02 - Proyecto Call Center
-<img width="590" alt="Call Center" src="https://github.com/user-attachments/assets/ed95b0c2-50e5-4519-9834-a11942a1aa6f" />
+<img width="590" alt="Captura de pantalla 2025-01-10 152654" src="https://github.com/user-attachments/assets/e6b5e3ac-dd38-415a-8452-f168d9b2d41b" />
+
 
 
 
