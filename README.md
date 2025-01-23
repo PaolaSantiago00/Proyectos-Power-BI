@@ -12,4 +12,5 @@
 
 
   
-- 📈 Proyecto 03 -  Proyecto Análisis de Netflix
+- 📈 Proyecto 03 -  Proyecto Análisis Tienda de Bicicletas
+<img width="514" alt="tiendas bicileta" src="https://github.com/user-attachments/assets/d35b06ca-981e-4505-ae5d-f1be20a78918" />
